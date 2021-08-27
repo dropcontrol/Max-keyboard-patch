@@ -1,8 +1,8 @@
 require 'open3'
 authority = "Developer ID Application: SIGNAL COMPOSE K.K. (ZWULF5LA37)"
 entitlements = "/Users/yamato/Src/Max-keyboard-patch/max-keyboard.entitlements"
-appbundle = "/Users/yamato/Desktop/keyboard-and-note-viewer/keyboard-and-note-viewer.app"
-appname = "keyboard & note viewer"
+appbundle = "/Users/yamato/Src/Max-keyboard-patch/build/Keyboard and Note VIewer/Keyboard and Note Viewer.app"
+appname = "Keyboard and Note viewer"
 resources = [];
 count = 1;
 # codesign the stuff in C74 folder
