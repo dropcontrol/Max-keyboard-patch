@@ -1,2 +1,21 @@
 # Max-keyboard-patch
-「クリエイターのためのポピュラー音楽理論」で使うパッチ
+
+[![Image from Gyazo](https://i.gyazo.com/b4127632daa1c14f6cf1f8f132205a34.gif)](https://gyazo.com/b4127632daa1c14f6cf1f8f132205a34)
+
+## TL;DF
+
+「[クリエイターのためのポピュラー音楽理論](https://youtube.com/playlist?list=PL560ZbpIuuR7bpr6kWBMc2Tc_JdmIWoZm)」で使うパッチをもとにアプリケーション化してあります。
+
+## Functions
+- MIDI入力を指定して、入力されている音をキーボード、譜表に表示します
+- 譜表の臨時記号はフラット／シャープの記号を切り替えられます（デフォルトはフラット）
+- 臨時記号の切り替えは`CAPS LOCK`キーでも切り替えられます（オフでフラット、オンでシャープ）
+- MIDI出力を指定して外部の音源と同時に使えます（macOSの場合は内蔵のGM音源を選ぶとピアノの音色で再生されます）
+- プラグインシンセ（VST, AudioUnit)を読み込んで内蔵音源の代わりにすることもできます
+
+### Function (en)
+- Specify a MIDI input and display the input notes on the keyboard and in the music notation.
+- Toggles between flat and sharp notation in the staff (flat by default).
+- You can also use the CAPS LOCK key to toggle between flat and sharp symbols (off for flat, on for sharp)
+- MIDI output can be specified for simultaneous use with an external sound source (on macOS, selecting the built-in GM sound source will play the piano tone).
+- Plug-in synths (VST, AudioUnit) can be loaded to replace the built-in sound source.
