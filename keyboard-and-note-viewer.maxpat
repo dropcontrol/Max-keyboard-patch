@@ -388,8 +388,8 @@
 					"numoutlets" : 8,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "signal", "signal", "", "list", "int", "", "", "" ],
-					"patching_rect" : [ 149.0, 745.0, 108.0, 22.0 ],
-					"save" : [ "#N", "vst~", "loaduniqueid", 0, "Kontakt", ";" ],
+					"patching_rect" : [ 149.0, 745.0, 92.5, 22.0 ],
+					"save" : [ "#N", "vst~", "loaduniqueid", 0, ";" ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_invisible" : 1,
@@ -406,81 +406,7 @@
 						"prefer" : "AudioUnit"
 					}
 ,
-					"snapshot" : 					{
-						"filetype" : "C74Snapshot",
-						"version" : 2,
-						"minorversion" : 0,
-						"name" : "snapshotlist",
-						"origin" : "vst~",
-						"type" : "list",
-						"subtype" : "Undefined",
-						"embed" : 1,
-						"snapshot" : 						{
-							"pluginname" : "Kontakt.auinfo",
-							"plugindisplayname" : "Kontakt",
-							"pluginsavedname" : "",
-							"pluginsaveduniqueid" : 1315513412,
-							"version" : 1,
-							"isbank" : 0,
-							"isbase64" : 1,
-							"blob" : "3002.hAGaoMGcv.y0AHv.DTfAGfPBJr.CM3.WsEla0YVXiQWcxUlbTQVXzE1U1MGcjEFcgc0b0IFc4AWYWYWYxMWZu4FUzkGbkQkag0VYRzhSI0BPOEwBSLwB........A....f1bo4V..........Pv4ZzBeF6D0q9Am6ytftvok.........PzTI4jc....A....fD.........DMURNoF...P.....X..........QSkjSA....D....P.....A....D....P.....................MHVYEF....fCvAA......D....P.....................C.....C.v..L......................P.....A..........QSkjS0A...DjB........A....f1bo4V..........bdIqZ4MEbzD6BKAUHDPoSbDJ........PzTI4Tc....A....7cB........DMURNMG...P.....X..........QSkjSA....D....P.....A.....fqI........D.....ZyklaA.........fgKpvlqlZSX+Hw1jFOpOrjX..........QSkjSA....D....P.....A....D..........zrTRNM....fVI........D.....ZyklaA..........YJ6rxK+WRfnZTzds4b+LrAB.........MKkjSC....D....vZ.........PzTI4TY....A....PC.........DMURNoF...P.....X..........QSkjSA....D....P.....A....H....P......H....P.....I....XC.t.PM.3B.y.fK.DC.x.PM....A....P..........DMURNwF...fmA........D.....ZyklaA.........vzFaOdXd.QVuHtd2qiwP1ctE.........QSkjSrA...D.....F.........PzTI4T.....A....D....P.....B....D..........M....3D.kAvc..B.n..Y.TF.lAPX.TG.rA.c.jB......................7++++++++++..........................P.....................G....b.....W..D.iAva.vF.uAfb.D.....L.DA....W..D.jAPY.XG.oAvX.TF.zAPd..G.kAfY.vF.gAvY.LG.A.....C.K....vE..Avb.7F.0Afa.PF.zAPd..G.kAP.....v.vA....bA.P.PG.kAPa..G.uAP.....v.fA....bA.P.XG.kAfb.vF.F....DC.t.vM.3B.w..M.X.....W..D.1APY.HG.sAfA....w.fK.bC.t.PL.PC.G....vE..Afc.jF.yAPZ.HF.A.....C.A.........f.....DMURNkG....Z.........D.....ZyklaA.........fAG6IpfJ2PL2qWPHe+yve43..........QSkjS4A...D.....F.........PzTI4T.....A....D....P.....A.........P..........D.....QSkjSzA...jSA........A....f1bo4V..........HIxDcATxczhQNDLPmC8DEaBE........PzTI4Dc....A.....OA........DMURNMG...P.....X..........QSkjSA....D....P.....A....D.BN...2R...H.BN..X..P.fTv.nMWZtAzA.A.DZCVvDsK5EUtmYzV33.FqLhAPT.B.CPzTI4DPi.9AC.D..sA.sABBAPaCfP.H..zHfOvTPfY.rkjk8ajWP97hnuZdXsHgfdBv2.zKfewY.MB.7.5MBL..h.RBADvbff.P.DP.p.TAB..f+.z.C.L0A..Hbr..NAPY.bG.f..J.PFHIHgY.DF.0A.a.PG.o.f4L...GAfDfLx...A.+CJ.fv.P.HfA.nAPF..XfcA...H.fFBXN.9ceLfO.3OAfUY..B.f.DjE.H.HJDTB.kA.E.xB.X.HC.vAfL..H.x..j.HC.fBfL..K.x.fbeXZ.fCfb..O.x...AHC.PDfLPPJ.vDfb..T.x..TAHC.fEfL..W.x.AII.Y.xAAIA.a.xA.vAHC.PGfL..d.x..7AHCP.H....g.x..HBHC.vHfL..j.x..TBHC.fIfL..m.x..fBHC.PJfLPPdBvJfb..r.x..zBHC.fKfL..u.x...CHC.PLfL..x.x..LCHC..MfL..0.x..XCHC.vMfL..3.x..jCHC.fNfL..6.x..vCHC.POfL..9.x.grdA..D...PPfL..BAx..LDHC..QfL..EAx..XDHC.vQfL..HAx..jDHC.fRfL..KAx..vDHC.PSfL..NAx..7DHC..TfL..QAx..HEHC.vTfL..TAx..TEHC.fUfL..WAx..fEHC.PVfL..ZAx..rEHC..WfL..cAx..3EHC.vWfLf.fA..hXk...fXfL..iAx..PFHC.PYfL..lAx..bFHC..ZfL..oAx..nFHC.vZfL..rAx.CYB.tAxA.7FHC..bfL..wAx..HGHC.vbfL..zAx..TGHC.fcfL..2Ax..fGHC.PdfL..5Ax..rGHC..efL..8Ax..3GHC.vefN.3D...vEl+.LGHHAfKgvI.wHBFBUa..9iPXDP.PI1GfO..fCiDfa.Z.HC3SglP.CvbgXA.xAR..UM.0.RA.DiHhCNUYSDK.fWnBAD.gCkP.iVPBMjxfiEZ.LSHqBzzfiEZ.PCHlQDkfmDZ.bCYXCL.iPNIuGzNBUN3G..PpC9BW.TlfuvE.MAPC.9A.TjUfuvEfnG3LbQQ9A9BuTjjfuvEBUN3KbQQ5B9BWTjyfuvEEIN3KbwQQ.9BWXjBfuvEF4A3KbgQx.9BWXjQfuvEFoE3KbgQtA9BWXjffuvEFYI3KbgQpB9BWXjufuvEFIM3KbgQlC9BWXj9fuvEG4.3KbwQh.9BWbjMfuvEGoD3KbwQdA9BWbjbfuvEGYH3KbwQZB9BWbjqfuvEGIL3KbwQVC9BWbj5fuvEG4O3KbARR.9BWfjIfuvEHoC3KbARNA9BWfjXfuvEHYG3KbQ.t..3MbARdB9BufjrfuvEHYL3KbARZC9BWfj6fuvEII.3KbQRV.9BWjjJfuvEI4C3KbQRRA9BWjjYfuvEIoG3KbQRNB9BWjjnfuvEIYK3KbQRJC9BWjj2fuvEIIO3Kbg.IA.DlH.QcBD.fnPY4Wb4E0aQoVTkEEXQsUTVEUTQwTTGEk.Q0C9vCAvRfU8QC.dA.rPChUVgA.........P......D..........oO...PyRI4DA....5D........P.....nMWZtE..........+q74eIS2NcTs4nrh5BgRqoP.........zrTRNQ....P.....X..........QSkjSA....D....P.....R.Ip+A.....DAnwX2nN..7+.EXfMt81R9dHJgA..........................EX......................................................................................................................................................uJ4eD9b.rKBIUvSdE9FCt2G.........................................................A.........P.....B....j....fM.3B.0.fK.LC.t.PL.HC.0.P..........HgSoQBQP.fDgUWa0c0Ru4FcgsFc.f..W..I.jB.w.PN.DD.FAvR..E.Qs.ZKz1Bus.c........BD..........O...................KvG"
-						}
-,
-						"snapshotlist" : 						{
-							"current_snapshot" : 0,
-							"entries" : [ 								{
-									"filetype" : "C74Snapshot",
-									"version" : 2,
-									"minorversion" : 0,
-									"name" : "Kontakt",
-									"origin" : "Kontakt.auinfo",
-									"type" : "AudioUnit",
-									"subtype" : "Instrument",
-									"embed" : 0,
-									"snapshot" : 									{
-										"pluginname" : "Kontakt.auinfo",
-										"plugindisplayname" : "Kontakt",
-										"pluginsavedname" : "",
-										"pluginsaveduniqueid" : 1315513412,
-										"version" : 1,
-										"isbank" : 0,
-										"isbase64" : 1,
-										"blob" : "3002.hAGaoMGcv.y0AHv.DTfAGfPBJr.CM3.WsEla0YVXiQWcxUlbTQVXzE1U1MGcjEFcgc0b0IFc4AWYWYWYxMWZu4FUzkGbkQkag0VYRzhSI0BPOEwBSLwB........A....f1bo4V..........Pv4ZzBeF6D0q9Am6ytftvok.........PzTI4jc....A....fD.........DMURNoF...P.....X..........QSkjSA....D....P.....A....D....P.....................MHVYEF....fCvAA......D....P.....................C.....C.v..L......................P.....A..........QSkjS0A...DjB........A....f1bo4V..........bdIqZ4MEbzD6BKAUHDPoSbDJ........PzTI4Tc....A....7cB........DMURNMG...P.....X..........QSkjSA....D....P.....A.....fqI........D.....ZyklaA.........fgKpvlqlZSX+Hw1jFOpOrjX..........QSkjSA....D....P.....A....D..........zrTRNM....fVI........D.....ZyklaA..........YJ6rxK+WRfnZTzds4b+LrAB.........MKkjSC....D....vZ.........PzTI4TY....A....PC.........DMURNoF...P.....X..........QSkjSA....D....P.....A....H....P......H....P.....I....XC.t.PM.3B.y.fK.DC.x.PM....A....P..........DMURNwF...fmA........D.....ZyklaA.........vzFaOdXd.QVuHtd2qiwP1ctE.........QSkjSrA...D.....F.........PzTI4T.....A....D....P.....B....D..........M....3D.kAvc..B.n..Y.TF.lAPX.TG.rA.c.jB......................7++++++++++..........................P.....................G....b.....W..D.iAva.vF.uAfb.D.....L.DA....W..D.jAPY.XG.oAvX.TF.zAPd..G.kAfY.vF.gAvY.LG.A.....C.K....vE..Avb.7F.0Afa.PF.zAPd..G.kAP.....v.vA....bA.P.PG.kAPa..G.uAP.....v.fA....bA.P.XG.kAfb.vF.F....DC.t.vM.3B.w..M.X.....W..D.1APY.HG.sAfA....w.fK.bC.t.PL.PC.G....vE..Afc.jF.yAPZ.HF.A.....C.A.........f.....DMURNkG....Z.........D.....ZyklaA.........fAG6IpfJ2PL2qWPHe+yve43..........QSkjS4A...D.....F.........PzTI4T.....A....D....P.....A.........P..........D.....QSkjSzA...jSA........A....f1bo4V..........HIxDcATxczhQNDLPmC8DEaBE........PzTI4Dc....A.....OA........DMURNMG...P.....X..........QSkjSA....D....P.....A....D.BN...2R...H.BN..X..P.fTv.nMWZtAzA.A.DZCVvDsK5EUtmYzV33.FqLhAPT.B.CPzTI4DPi.9AC.D..sA.sABBAPaCfP.H..zHfOvTPfY.rkjk8ajWP97hnuZdXsHgfdBv2.zKfewY.MB.7.5MBL..h.RBADvbff.P.DP.p.TAB..f+.z.C.L0A..Hbr..NAPY.bG.f..J.PFHIHgY.DF.0A.a.PG.o.f4L...GAfDfLx...A.+CJ.fv.P.HfA.nAPF..XfcA...H.fFBXN.9ceLfO.3OAfUY..B.f.DjE.H.HJDTB.kA.E.xB.X.HC.vAfL..H.x..j.HC.fBfL..K.x.fbeXZ.fCfb..O.x...AHC.PDfLPPJ.vDfb..T.x..TAHC.fEfL..W.x.AII.Y.xAAIA.a.xA.vAHC.PGfL..d.x..7AHCP.H....g.x..HBHC.vHfL..j.x..TBHC.fIfL..m.x..fBHC.PJfLPPdBvJfb..r.x..zBHC.fKfL..u.x...CHC.PLfL..x.x..LCHC..MfL..0.x..XCHC.vMfL..3.x..jCHC.fNfL..6.x..vCHC.POfL..9.x.grdA..D...PPfL..BAx..LDHC..QfL..EAx..XDHC.vQfL..HAx..jDHC.fRfL..KAx..vDHC.PSfL..NAx..7DHC..TfL..QAx..HEHC.vTfL..TAx..TEHC.fUfL..WAx..fEHC.PVfL..ZAx..rEHC..WfL..cAx..3EHC.vWfLf.fA..hXk...fXfL..iAx..PFHC.PYfL..lAx..bFHC..ZfL..oAx..nFHC.vZfL..rAx.CYB.tAxA.7FHC..bfL..wAx..HGHC.vbfL..zAx..TGHC.fcfL..2Ax..fGHC.PdfL..5Ax..rGHC..efL..8Ax..3GHC.vefN.3D...vEl+.LGHHAfKgvI.wHBFBUa..9iPXDP.PI1GfO..fCiDfa.Z.HC3SglP.CvbgXA.xAR..UM.0.RA.DiHhCNUYSDK.fWnBAD.gCkP.iVPBMjxfiEZ.LSHqBzzfiEZ.PCHlQDkfmDZ.bCYXCL.iPNIuGzNBUN3G..PpC9BW.TlfuvE.MAPC.9A.TjUfuvEfnG3LbQQ9A9BuTjjfuvEBUN3KbQQ5B9BWTjyfuvEEIN3KbwQQ.9BWXjBfuvEF4A3KbgQx.9BWXjQfuvEFoE3KbgQtA9BWXjffuvEFYI3KbgQpB9BWXjufuvEFIM3KbgQlC9BWXj9fuvEG4.3KbwQh.9BWbjMfuvEGoD3KbwQdA9BWbjbfuvEGYH3KbwQZB9BWbjqfuvEGIL3KbwQVC9BWbj5fuvEG4O3KbARR.9BWfjIfuvEHoC3KbARNA9BWfjXfuvEHYG3KbQ.t..3MbARdB9BufjrfuvEHYL3KbARZC9BWfj6fuvEII.3KbQRV.9BWjjJfuvEI4C3KbQRRA9BWjjYfuvEIoG3KbQRNB9BWjjnfuvEIYK3KbQRJC9BWjj2fuvEIIO3Kbg.IA.DlH.QcBD.fnPY4Wb4E0aQoVTkEEXQsUTVEUTQwTTGEk.Q0C9vCAvRfU8QC.dA.rPChUVgA.........P......D..........oO...PyRI4DA....5D........P.....nMWZtE..........+q74eIS2NcTs4nrh5BgRqoP.........zrTRNQ....P.....X..........QSkjSA....D....P.....R.Ip+A.....DAnwX2nN..7+.EXfMt81R9dHJgA..........................EX......................................................................................................................................................uJ4eD9b.rKBIUvSdE9FCt2G.........................................................A.........P.....B....j....fM.3B.0.fK.LC.t.PL.HC.0.P..........HgSoQBQP.fDgUWa0c0Ru4FcgsFc.f..W..I.jB.w.PN.DD.FAvR..E.Qs.ZKz1Bus.c........BD..........O...................KvG"
-									}
-,
-									"fileref" : 									{
-										"name" : "Kontakt",
-										"filename" : "Kontakt_20210503.maxsnap",
-										"filepath" : "~/Documents/Max 8/Snapshots",
-										"filepos" : -1,
-										"snapshotfileid" : "cb8473a2ddea9a421e847092c4f2314d"
-									}
-
-								}
-, 								{
-									"filetype" : "C74Snapshot",
-									"version" : 2,
-									"minorversion" : 0,
-									"name" : "Kontakt",
-									"origin" : "Kontakt.auinfo",
-									"type" : "AudioUnit",
-									"subtype" : "Instrument",
-									"embed" : 0,
-									"fileref" : 									{
-										"name" : "Kontakt",
-										"filename" : "Kontakt_20210503_1.maxsnap",
-										"filepath" : "~/Documents/Max 8/Snapshots",
-										"filepos" : -1,
-										"snapshotfileid" : "5eb76cd9b1cb34083a6c85c8daa06a15"
-									}
-
-								}
- ]
-						}
-
-					}
-,
-					"text" : "audiounit~ Kontakt",
+					"text" : "audiounit~",
 					"varname" : "vst~",
 					"viewvisibility" : 0
 				}
@@ -806,27 +732,13 @@
 			"inherited_shortname" : 1
 		}
 ,
-		"dependency_cache" : [ 			{
-				"name" : "Kontakt_20210503.maxsnap",
-				"bootpath" : "~/Documents/Max 8/Snapshots",
-				"patcherrelativepath" : "../../Documents/Max 8/Snapshots",
-				"type" : "mx@s",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "Kontakt_20210503_1.maxsnap",
-				"bootpath" : "~/Documents/Max 8/Snapshots",
-				"patcherrelativepath" : "../../Documents/Max 8/Snapshots",
-				"type" : "mx@s",
-				"implicit" : 1
-			}
- ],
+		"dependency_cache" : [  ],
 		"autosave" : 0,
 		"styles" : [ 			{
 				"name" : "newobjYellow-1",
 				"default" : 				{
-					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-					"fontsize" : [ 12.059008 ]
+					"fontsize" : [ 12.059008 ],
+					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
