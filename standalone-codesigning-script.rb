@@ -1,7 +1,7 @@
 require 'open3'
 authority = "Developer ID Application: SIGNAL COMPOSE K.K. (ZWULF5LA37)"
 entitlements = "/Users/yamato/Src/Max-keyboard-patch/max-keyboard.entitlements"
-appbundle = "/Users/yamato/Desktop/max-keyboard.app"
+appbundle = "/Users/yamato/Desktop/keyboard-and-note-viewer/keyboard-and-note-viewer.app"
 appname = "keyboard & note viewer"
 resources = [];
 count = 1;
