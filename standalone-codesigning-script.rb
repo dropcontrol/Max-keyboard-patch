@@ -1,8 +1,8 @@
 require 'open3'
-authority = "Developer ID Application: YOUR CERTIFICATE NAME"
-entitlements = "PATH/TO/YOUR-APP-NAME.entitlements"
-appbundle = "PATH/TO/YOUR-APP-NAME.app"
-appname = "YOUR-APP-NAME"
+authority = "Developer ID Application: SIGNAL COMPOSE K.K. (ZWULF5LA37)"
+entitlements = "/Users/yamato/Src/Max-keyboard-patch/max-keyboard.entitlements"
+appbundle = "/Users/yamato/Desktop/max-keyboard.app"
+appname = "keyboard & note viewer"
 resources = [];
 count = 1;
 # codesign the stuff in C74 folder
