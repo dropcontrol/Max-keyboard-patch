@@ -1,6 +1,6 @@
 # Max-keyboard-patch
 
-[![Image from Gyazo](https://i.gyazo.com/b4127632daa1c14f6cf1f8f132205a34.gif)](https://gyazo.com/b4127632daa1c14f6cf1f8f132205a34)
+[![Image from Gyazo](https://i.gyazo.com/a37198c4c322fbcb2a997c6d1f05bbea.gif)](https://gyazo.com/a37198c4c322fbcb2a997c6d1f05bbea)
 
 ## TL;DF
 
